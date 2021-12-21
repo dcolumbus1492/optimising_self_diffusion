@@ -4,6 +4,6 @@
 
 **Objective**: Finding the initial 7Li distribution in the metal (i.e., the I.Cs), that explains the observable results. 
 
-**Methodology**: 1) model the self-diffusion process on a 1d grid (using central differences and forward Euler).
-                 2) run black-box optimization process to find the I.Cs of the system that fit best to the experimental data (using scipy.optimize.minimize)
+**Methodology**: 1) model the self-diffusion process on a 1d grid (using central differences and forward Euler techniques).
+                 2) run black-box optimization process to find the I.Cs of the system that fit best to the experimental data (using scipy.optimize.minimize).
 
